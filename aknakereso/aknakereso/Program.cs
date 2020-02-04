@@ -41,7 +41,16 @@ namespace aknakereso
 
         public static void Kirajzoló()
         {
-            
+            Console.BackgroundColor = ConsoleColor.DarkGreen;
+            Console.BackgroundColor = ConsoleColor.DarkYellow;
+
+            for (int i = 0; i < ; i++)
+            {
+                for (int i = 0; i < length; i++)
+                {
+
+                }
+            }
         }
     }
 }
